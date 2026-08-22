@@ -18,18 +18,18 @@ new Vue({
           favorited: false
         },
         {
-          name: "Everybody Knows",
-          artist: "Leonard Cohen",
+          name: "shap of you",
+          artist: "Ed sehren",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
+          source: "music/01 Ed Sheeran - Shape of You.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
           favorited: true
         },
         {
-          name: "Extreme Ways",
-          artist: "Moby",
+          name: "Perfect",
+          artist: "Ed Sehren",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
+          source: "music/05 Ed Sheeran - Perfect.mp3",
           url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
           favorited: false
         },
@@ -42,26 +42,26 @@ new Vue({
           favorited: false
         },
         {
-          name: "The Final Victory",
-          artist: "Haggard",
+          name: "Believer",
+          artist: "Imagine Dragon",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/5.mp3",
+          source: "music/10 Imagine Dragons - Believer.mp3",
           url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
           favorited: true
         },
         {
-          name: "Genius ft. Sia, Diplo, Labrinth",
+          name: "Ore o nil doriya",
           artist: "LSD",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/6.mp3",
+          source: "music/A. I. Razu - Ore Nil Doriya.mp3",
           url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
           favorited: false
         },
         {
-          name: "The Comeback Kid",
+          name: " Wanna be yours",
           artist: "Lindi Ortega",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/7.mp3",
+          source: "music/12 Arctic Monkeys - I Wanna Be Yours.mp3",
           url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
           favorited: true
         },
